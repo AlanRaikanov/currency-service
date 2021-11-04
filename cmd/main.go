@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/AlanRaikanov/currency-service/handlers"
+	"./handlers"
 	"github.com/labstack/echo/v4"
 )
 

@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AlanRaikanov/currency-service/models"
+	"../models"
 	"github.com/labstack/echo/v4"
 )
 
