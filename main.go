@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Brainsoft-Raxat/curr-app/internal/controllers"
+	"github.com/AlanRaikanov/currency-service/handlers"
 	"github.com/labstack/echo/v4"
 )
 
